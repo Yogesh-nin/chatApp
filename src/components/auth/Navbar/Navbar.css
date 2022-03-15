@@ -1,0 +1,26 @@
+.navbar{
+    background-color: #1777F2;
+    color: #ffffff;
+}
+
+.input-group-text{
+    background-color: #ffffff;
+}
+.search-box{
+    display: flex;
+    flex-direction: row;
+}
+.search-field{
+    padding: 10px 35px 10px 15px;
+    border: none;
+    border-radius: 100px;
+    outline: none;
+}
+
+.search-icon{
+    background: transparent;
+    border: none; 
+    outline: none;
+    margin-left: -33px;
+    color: #000000;
+}

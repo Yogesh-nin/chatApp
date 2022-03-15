@@ -1,0 +1,18 @@
+.input-box{
+    padding: 10px 10px;
+    border: 2px solid #BFBFBF;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.form-btn{
+    font-size: 20px;
+    border-radius: 10px;
+    font-weight: 600;
+}
+.switch-btn{
+    background-color: #42B72A;
+    color: #ffffff;
+}
+.switch-btn:hover{
+    color: #ffffff;
+}
