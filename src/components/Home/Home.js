@@ -7,7 +7,7 @@ const Home = () => {
   return (
     <div className="container-fluid min-vh-100" style={{backgroundColor: '#F0F2F5'}}>
         <div className="row min-vh-100 align-items-center justify-content-center">
-            <div className="col-12 col-sm-4">
+            <div className="col-12 col-sm-6">
                 <h1 className="chatApp-title">Chat App</h1>
                 <p className="chatApp-para">chat with your friends in real times</p>
             </div>
